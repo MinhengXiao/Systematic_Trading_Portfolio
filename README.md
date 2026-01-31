@@ -1,13 +1,8 @@
 ## Trade Log (Excerpt, A-share)
 
-**Units:** Amounts are shown in **CNY '000** (i.e., original CNY amounts ÷ 1,000).  
-**Columns:** Buy/Sell Amount and PnL follow the sheet: `PnL = Sell Amount − Buy Amount`.
+### 1/15/2026 - 1/19/2026
 
----
-
-### 1/15/2026 - 1/1/2026
-
-| Code | Buy Qty (shares) | Cost | Buy Amt (CNY '000) | Sell | Sell Amt (CNY '000) | PnL (CNY '000) |
+| Code | Buy Qty (shares) | Cost | Buy Amt | Sell | Sell Amt | PnL |
 |---|---:|---:|---:|---:|---:|---:|
 | 002312.SZ | 26,100 | 11.43 | 298.323 | 11.37 | 296.757 | -1.566 |
 | 600392.SH | 12,800 | 23.52 | 301.056 | 24.01 | 307.328 | 6.272 |
@@ -20,17 +15,17 @@
 | 000728.SZ | 35,000 | 8.54 | 298.900 | 8.45 | 295.750 | -3.150 |
 | 000932.SZ | 53,200 | 5.63 | 299.516 | 5.61 | 298.452 | -1.064 |
 
-**Total Buy:** 2,986.080 (CNY '000)  
-**Total Sell:** 3,009.942 (CNY '000)  
-**Total PnL:** 23.862 (CNY '000)  
+**Total Buy:** 2,986.080
+**Total Sell:** 3,009.942
+**Total PnL:** 23.862
 **Total PnL (%):** 0.799%  
-**Available Funds:** 3,023.862 (CNY '000)
+**Available Funds:** 3,023.862
 
 ---
 
 ### 1/20/2026 - 1/22/2026
 
-| Code | Buy Qty (shares) | Cost | Buy Amt (CNY '000) | Sell | Sell Amt (CNY '000) | PnL (CNY '000) |
+| Code | Buy Qty (shares) | Cost | Buy Amt | Sell | Sell Amt | PnL |
 |---|---:|---:|---:|---:|---:|---:|
 | 000709.SZ | 126,000 | 2.39 | 301.140 | 2.52 | 317.520 | 16.380 |
 | 002312.SZ | 25,800 | 11.57 | 298.506 | 11.96 | 308.568 | 10.062 |
@@ -43,17 +38,17 @@
 | 000932.SZ | 52,800 | 5.66 | 298.848 | 6.12 | 323.136 | 24.288 |
 | 600801 | 12,000 | 24.80 | 297.600 | 25.80 | 309.600 | 12.000 |
 
-**Total Buy:** 2,982.264 (CNY '000)  
-**Total Sell:** 3,104.499 (CNY '000)  
-**Total PnL:** 122.235 (CNY '000)  
+**Total Buy:** 2,982.264
+**Total Sell:** 3,104.499
+**Total PnL:** 122.235
 **Total PnL (%):** 4.10%  
-**Available Funds:** 3,146.097 (CNY '000)
+**Available Funds:** 3,146.097
 
 ---
 
-### 1/23/2026 - 1/25/2026
+### 1/23/2026 - 1/27/2026
 
-| Code | Buy Qty (shares) | Cost | Buy Amt (CNY '000) | Sell | Sell Amt (CNY '000) | PnL (CNY '000) |
+| Code | Buy Qty (shares) | Cost | Buy Amt | Sell | Sell Amt | PnL |
 |---|---:|---:|---:|---:|---:|---:|
 | 600392.SH | 12,400 | 24.57 | 304.668 | 26.00 | 322.400 | 17.732 |
 | 600801.SH | 11,700 | 25.90 | 303.030 | 26.10 | 305.370 | 2.340 |
@@ -66,8 +61,10 @@
 | 002312.SZ | 25,200 | 12.09 | 304.668 | 12.61 | 317.772 | 13.104 |
 | 600369.SH | 66,200 | 4.57 | 302.534 | 4.59 | 303.858 | 1.324 |
 
-**Total Buy:** 3,029.317 (CNY '000)  
-**Total Sell:** 3,112.654 (CNY '000)  
-**Total PnL:** 83.337 (CNY '000)  
+**Total Buy:** 3,029.317
+**Total Sell:** 3,112.654
+**Total PnL:** 83.337
 **Total PnL (%):** 2.75%  
-**Available Funds:** 3,229.434 (CNY '000)
+**Available Funds:** 3,229.434
+
+
