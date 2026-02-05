@@ -1,6 +1,6 @@
 ## Trade Log (Excerpt, A-share)
 
-### 1/15/2026 - 1/19/2026
+### 1/15/2026 - 1/19/2026 (CSI 500: 0.603%)
 
 | Code | Buy Price | Buy Amt | Sell Price | Sell Amt | PnL |
 |---:|---:|---:|---:|---:|---:|
@@ -21,7 +21,7 @@
 **Total PnL (%):** 0.799%  
 
 
-### 1/20/2026 - 1/22/2026
+### 1/20/2026 - 1/22/2026 (CSI: -0.036%)
 
 | Code | Buy Price | Buy Amt | Sell Price | Sell Amt | PnL |
 |---:|---:|---:|---:|---:|---:|
@@ -41,7 +41,7 @@
 **Total PnL:** 122
 **Total PnL (%):** 4.10%  
 
-### 1/23/2026 - 1/27/2026
+### 1/23/2026 - 1/27/2026 (CSI 500: 0.089%)
 
 | Code | Buy Price | Buy Amt | Sell Price | Sell Amt | PnL |
 |---:|---:|---:|---:|---:|---:|
@@ -61,7 +61,7 @@
 **Total PnL:** 83.3
 **Total PnL (%):** 2.75%  
 
-### 2/02/2026 - 2/03/2026
+### 2/02/2026 - 2/03/2026 (CSI 500: 0.071%)
 
 | Code | Buy Price | Buy Amt | Sell Price | Sell Amt | PnL |
 |---:|---:|---:|---:|---:|---:|
@@ -73,7 +73,7 @@
 **Total PnL:** 2.09 
 **Total PnL (%):** 0.22%  
 
-### 2/03/2026 - 2/05/2026
+### 2/03/2026 - 2/05/2026 (CSI 500: 0.239%)
 
 | Code | Buy Price | Buy Amt | Sell Price | Sell Amt | PnL |
 |---:|---:|---:|---:|---:|---:|
