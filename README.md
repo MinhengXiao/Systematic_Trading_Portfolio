@@ -69,7 +69,7 @@
 
 ### 2/02/2026 - 2/03/2026
 
-| Code | Buy Price | Buy Amt | Sell Price | Sell Amt | PnL *(fee-adjusted)* |
+| Code | Buy Price | Buy Amt | Sell Price | Sell Amt | PnL |
 |---:|---:|---:|---:|---:|---:|
 | 600038.SH | 36.69 | 476,970.000 | 36.74 | 477,620.000 | 650.000 |
 | 600038.SH | 36.69 | 480,639.000 | 36.80 | 482,080.000 | 1,441.000 |
@@ -84,7 +84,7 @@
 
 ### 2/03/2026 - 2/05/2026
 
-| Code | Buy Price | Buy Amt | Sell Price | Sell Amt | PnL *(fee-adjusted)* |
+| Code | Buy Price | Buy Amt | Sell Price | Sell Amt | PnL |
 |---:|---:|---:|---:|---:|---:|
 | 002138.SZ | 37.60 | 308,320.000 | 37.75 | 309,550.000 | 1,175.000 |
 | 000009.SZ | 9.45 | 310,905.000 | 9.42 | 309,918.000 | -1,041.000 |
