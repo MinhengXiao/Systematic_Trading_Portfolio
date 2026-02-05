@@ -19,7 +19,6 @@
 **Total Sell:** 3,009
 **Total PnL:** 23.86
 **Total PnL (%):** 0.799%  
-**Available Funds:** 3,023
 
 ---
 
@@ -42,7 +41,6 @@
 **Total Sell:** 3,104
 **Total PnL:** 122
 **Total PnL (%):** 4.10%  
-**Available Funds:** 3,146
 
 ---
 
@@ -65,7 +63,6 @@
 **Total Sell:** 3,112
 **Total PnL:** 83.3
 **Total PnL (%):** 2.75%  
-**Available Funds:** 3,229
 
 ### 2/02/2026 - 2/03/2026
 
